@@ -85,7 +85,12 @@ Power: 12V LiPo for motors, LM2596 buck converter to 5V for servo/LiDAR, 3.3V fr
 
 **Note:** The ball feeder tube CAD was sourced from [Tylr-J42/XRP-Ping-Pong-Ball-Shooter](https://github.com/Tylr-J42/XRP-Ping-Pong-Ball-Shooter) and is not original work — all other mechanical parts were custom-designed in Onshape.
 
+### CAD Files
+ 
+- **Live/editable:** [Onshape Document](https://cad.onshape.com/documents/006694550e54c6535ae3a296/w/fde7019724d253a4cde574ab/e/71389e919a5da7285be2d17a) — full feature tree, editable, always reflects the latest version.
+- **Static/portable:** `docs/mechanical/Final_CAD_Assembly.step` — exported STEP file, viewable in any CAD tool, kept as a backup in case the Onshape link ever changes or becomes inaccessible.
 ---
+
 
 ## Testing & Validation
 
