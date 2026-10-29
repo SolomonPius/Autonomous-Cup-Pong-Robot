@@ -2,7 +2,14 @@
 
 An autonomous turret robot that detects, aims at, and launches ping-pong balls into cups — built for MIE438 (Embedded Systems) at the University of Toronto.
 
-**[Demo Video](https://www.youtube.com/watch?v=Q0vxaehKVus)**
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Q0vxaehKVus"><img src="https://img.youtube.com/vi/Q0vxaehKVus/hqdefault.jpg" height="400" alt="Watch the full demo on YouTube"></a>
+  &nbsp;
+  <img src="docs/media/lidar_scan_demo.gif" height="400" alt="Turret LiDAR scan with live radar view">
+</p>
+<p align="center">
+  <b><a href="https://www.youtube.com/watch?v=Q0vxaehKVus">▶ Watch the full demo on YouTube</a></b> &nbsp;·&nbsp; <em>Right: turret LiDAR scan with the live radar view</em>
+</p>
 
 Built by Solomon Pius, Abanoub Bashara, Roy Bou Abboud, and Yiyi Xu.
 
@@ -62,6 +69,7 @@ Full pinout and subsystem table in [docs/electrical/](docs/electrical/).
 │   └── tools/
 │       └── radar_view.py     # Python visualizer for LiDAR polar scan
 ├── docs/
+│   ├── media/                 # README demo GIF
 │   ├── electrical/            # Schematic, BOM, pinout diagram
 │   ├── mechanical/             # CAD assembly, final assembly photos
 │   ├── software/                # Architecture diagram, firmware flowchart
